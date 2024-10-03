@@ -29,7 +29,7 @@ But: a few tweaks can be made to train the model in float16 (fp16), which is sup
 * NVIDIA Tesla T4
 * NVIDIA V100.
 
-## Part 3 - Small Language Models**
+## Part 3 - Small Language Models
 
 ### 💻 Setup
 1. Install ollama downloader for MacOS (accessed on Aug 20th 2024)
