@@ -1,4 +1,4 @@
-# CSCE-771-NLP-Class
+# CSCE-771-NLP-Class-14
 
 🔗 [Notebook Link](https://github.com/kauroy1994/CSCE-771-NLP-Class/blob/Class-14/Class14_CSCE_771_Large_Language_Models.ipynb)
 
